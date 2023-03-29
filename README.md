@@ -3,7 +3,7 @@ A chip8 emulator written by @ziglang
 
 # How to run
 Install SDL2 library using your beloved package manager.
-Clone repo recursively and run following command with repo's directory:
+Clone repo recursively and run following command in repo's directory:
 ```zig
 zig build run
 ```
